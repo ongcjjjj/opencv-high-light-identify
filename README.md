@@ -1,7 +1,4 @@
 # opencv-high-light-identify
-opencv-high-light-identify
-c++
-
 #include <opencv2/opencv.hpp>
 #include <iostream>
 
